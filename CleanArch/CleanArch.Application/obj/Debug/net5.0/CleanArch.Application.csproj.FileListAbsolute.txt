@@ -1,0 +1,15 @@
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\ref\CleanArch.Application.dll
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
+D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb

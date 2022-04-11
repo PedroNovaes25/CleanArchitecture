@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using CleanArch.Application.Interfaces;
+using CleanArch.Application.Services;
+using CleanArch.Domain.Interfaces;
+using CleanArch.Infra.Data;
+using CleanArch.Infra.Data.Repositories;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -8,7 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Infra.Data
+namespace CleanArch.Infra.Ioc
 {
     public static class DependencyInjection
     {
@@ -22,6 +27,9 @@ namespace CleanArch.Infra.Data
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.AddScoped<IProductServices, ProductServices>();
+            services.AddScoped<IProductRepository, ProductRepository>();
 
             return services;
         }

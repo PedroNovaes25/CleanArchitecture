@@ -27,7 +27,7 @@ namespace CleanArch.MVC
                     var context = services.GetRequiredService<ApplicationDbContext>();
                     context.Database.Migrate();
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
                     logger.LogError("Ocorreu um erro na Migração ou alimentação de dados");

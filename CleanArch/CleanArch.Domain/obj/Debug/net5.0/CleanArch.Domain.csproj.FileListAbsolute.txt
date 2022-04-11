@@ -10,3 +10,15 @@ D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\ne
 D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.dll
 D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\ref\CleanArch.Domain.dll
 D:\PedrLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\bin\Debug\net5.0\CleanArch.Domain.deps.json
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\bin\Debug\net5.0\CleanArch.Domain.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\bin\Debug\net5.0\ref\CleanArch.Domain.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\bin\Debug\net5.0\CleanArch.Domain.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.csproj.AssemblyReference.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.AssemblyInfoInputs.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.AssemblyInfo.cs
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\ref\CleanArch.Domain.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.pdb

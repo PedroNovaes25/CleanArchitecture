@@ -19,6 +19,62 @@ namespace CleanArch.Infra.Data.Migrations
                 .HasAnnotation("ProductVersion", "5.0.15")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("CleanArch.Domain.Entities.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<decimal>("Price")
+                        .HasPrecision(10, 2)
+                        .HasColumnType("decimal(10,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Boa demais, super elástica e divertida",
+                            Name = "Cama elástica",
+                            Price = 230.00m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Pular pular disversão",
+                            Name = "Pula pula",
+                            Price = 230.00m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Capa surf, 400 folhas/12 matérias",
+                            Name = "Caderno",
+                            Price = 25.00m
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Preto e cinza, dois bolsos",
+                            Name = "Estojo",
+                            Price = 15.00m
+                        });
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
                     b.Property<string>("Id")

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sDIxqqQYAtw67d3As+uonBWA2EC2cxfeR5z0wvw/+D2a9qmpu6aflehOTfspxya+NuSnWbg4PK/vAsudAMxaQ==",
+  "dgSpecHash": "7Oa99GPzNo5pCjyPf3+F0doFFsZoOhjKYmbOn040P2NmP/iNNScBtsVx3ngyTWSPlAdTf+ebGzTAUgwU/VhIoQ==",
   "success": true,
-  "projectFilePath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+  "projectFilePath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

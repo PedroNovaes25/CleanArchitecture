@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U4qn9cqNXO2pqeWHqUGEX8osT3bk9wq3qhY7e3mqcDsYJWaDLsO2NjEirhWnGQ3vRw/yh8IfEooTgt6jXD2XBA==",
+  "dgSpecHash": "aM1ct9t6Bcq4Sv8B1O5Af6zprZSGPzBwguVCfAUpLpgW8UxtrNDna9bh/Hns2bY6NWqjJC7Nqy6xLAQZyH7uQg==",
   "success": true,
-  "projectFilePath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Ioc\\CleanArch.Infra.Ioc.csproj",
+  "projectFilePath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Ioc\\CleanArch.Infra.Ioc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.15\\microsoft.aspnetcore.cryptography.internal.5.0.15.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.15\\microsoft.aspnetcore.cryptography.keyderivation.5.0.15.nupkg.sha512",

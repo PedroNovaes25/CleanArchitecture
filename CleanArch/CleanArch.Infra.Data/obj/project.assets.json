@@ -6162,11 +6162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+      "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
       "projectName": "CleanArch.Infra.Data",
-      "projectPath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+      "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-      "outputPath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\obj\\",
+      "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro L Novaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6183,8 +6183,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-              "projectPath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
+            "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+              "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
             }
           }
         }

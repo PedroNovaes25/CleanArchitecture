@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
       "projectName": "CleanArch.Domain",
-      "projectPath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
       "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-      "outputPath": "D:\\PedrLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\obj\\",
+      "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro L Novaes\\AppData\\Roaming\\NuGet\\NuGet.Config",

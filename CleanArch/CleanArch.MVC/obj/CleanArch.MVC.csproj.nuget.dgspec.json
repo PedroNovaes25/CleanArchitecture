@@ -290,9 +290,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
-              },
               "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Ioc\\CleanArch.Infra.Ioc.csproj": {
                 "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Ioc\\CleanArch.Infra.Ioc.csproj"
               }

@@ -191,3 +191,7 @@ D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net5
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArch\CleanArch.MVC\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs

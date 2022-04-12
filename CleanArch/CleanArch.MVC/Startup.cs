@@ -34,9 +34,8 @@ namespace CleanArch.MVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.InfrastructureAdd(Configuration);
-            services.AddAutoMapperConfig();
+            services.AddAutoMapperConfiguration();
             services.AddControllersWithViews();
-
             services.AddRazorPages();
         }
 

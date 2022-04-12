@@ -20,20 +20,17 @@ namespace CleanArch.Infra.Data.Repositories
 
         public async Task<IEnumerable<Product>> GetProducts()
         {
-
             try
             {
-
                 return await _context.Products.AsNoTracking().ToListAsync();
             }
             catch (Exception ex)
             {
-
                 throw  new Exception(ex.Message);
             }
         }
 
-        public async Task<Product> GetById(int idProduct)
+        public async Task<Product> GetById(int? idProduct)
         {
             return await _context.Products.FindAsync(idProduct);
         }
@@ -48,7 +45,7 @@ namespace CleanArch.Infra.Data.Repositories
             _context.Products.Update(product);
             _context.SaveChanges();
         }
-        public void Delete(Product product)
+        public void Remove(Product product)
         {
             _context.Products.Remove(product);
             _context.SaveChanges();

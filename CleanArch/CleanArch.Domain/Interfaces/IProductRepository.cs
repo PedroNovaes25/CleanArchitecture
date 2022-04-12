@@ -10,9 +10,9 @@ namespace CleanArch.Domain.Interfaces
     public interface IProductRepository
     {
         Task<IEnumerable<Product>> GetProducts();
-        Task<Product> GetById(int idProduct);
+        Task<Product> GetById(int? idProduct);
         void Add(Product product);
         void Update(Product product);
-        void Delete(Product product);
+        void Remove(Product product);
     }
 }

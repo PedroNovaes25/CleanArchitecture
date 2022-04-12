@@ -10,9 +10,9 @@ namespace CleanArch.Application.Interfaces
     public interface IProductServices
     {
         Task<IEnumerable<ProductViewModel>> GetProducts();
-        Task<ProductViewModel> GetById(int idProduct);
+        Task<ProductViewModel> GetById(int? idProduct);
         void Add(ProductViewModel productViewModel);
         void Update(ProductViewModel productViewModel);
-        void Delete(ProductViewModel productViewModel);
+        void Remove(int idProduct);
     }
 }

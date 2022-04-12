@@ -6318,7 +6318,6 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
-      "CleanArch.Infra.Data >= 1.0.0",
       "CleanArch.Infra.Ioc >= 1.0.0"
     ]
   },
@@ -6349,9 +6348,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-              "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
-            },
             "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Ioc\\CleanArch.Infra.Ioc.csproj": {
               "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Ioc\\CleanArch.Infra.Ioc.csproj"
             }

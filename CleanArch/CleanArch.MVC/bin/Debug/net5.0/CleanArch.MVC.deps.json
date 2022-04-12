@@ -34,7 +34,6 @@
       "CleanArch.MVC/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
-          "CleanArch.Infra.Data": "1.0.0",
           "CleanArch.Infra.Ioc": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",

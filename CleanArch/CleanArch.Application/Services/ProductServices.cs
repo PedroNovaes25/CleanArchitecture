@@ -28,7 +28,7 @@ namespace CleanArch.Application.Services
             return _mapper.Map<IEnumerable<ProductViewModel>>(productModel);
         }
      
-        public async Task<ProductViewModel> GetById(int idProduct)
+        public async Task<ProductViewModel> GetById(int? idProduct)
         {
             var productModel = await _productRepository.GetById(idProduct);
             return _mapper.Map<ProductViewModel>(productModel);
@@ -45,10 +45,10 @@ namespace CleanArch.Application.Services
             _productRepository.Update(mapProductModel);
 
         }
-        public void Delete(ProductViewModel productViewModel)
+        public void Remove(int idProduct)
         {
-            var mapProductModel = _mapper.Map<Product>(productViewModel);
-            _productRepository.Delete(mapProductModel);
+            var product =  _productRepository.GetById(idProduct).Result;
+            _productRepository.Remove(product);
         }
 
     }

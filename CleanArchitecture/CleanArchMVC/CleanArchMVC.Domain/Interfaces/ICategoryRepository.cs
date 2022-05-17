@@ -12,8 +12,8 @@ namespace CleanArchMVC.Domain.Interfaces
         Task<IEnumerable<Category>> GetCategoriesAsync();
         Task<Category>GetByIdAsync(int? idCategory);
          
-        Task<Category> CreateAsync();
-        Task<Category> UpdateAsync();
-        Task<Category> RemoveAsync();
+        Task<Category> CreateAsync(Category category);
+        Task<Category> UpdateAsync(Category category);
+        Task<Category> RemoveAsync(Category category);
     }
 }

@@ -12,7 +12,6 @@ C:\Users\Pedro L Novaes\source\repos\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\
 C:\Users\Pedro L Novaes\source\repos\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.pdb
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\CleanArchMVC.Domain.deps.json
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\CleanArchMVC.Domain.dll
-D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\ref\CleanArchMVC.Domain.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\bin\Debug\net5.0\CleanArchMVC.Domain.pdb
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.csproj.AssemblyReference.cache
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
@@ -22,3 +21,4 @@ D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanAr
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\ref\CleanArchMVC.Domain.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\CleanArchMVC.Domain.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain\obj\Debug\net5.0\refint\CleanArchMVC.Domain.dll

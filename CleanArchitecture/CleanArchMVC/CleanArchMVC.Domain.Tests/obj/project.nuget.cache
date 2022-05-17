@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zUvzWCZ1lH9jUwe/B2qBp94uPOvwWMFLlFNu5HcFxKbxMZtzIYTZ3uCgxpGDXU2Ru+/8lJEL35kiBSLxZXD4Jw==",
+  "dgSpecHash": "MSyXJ0W0GPaZDr8T9IhU3q6iJBRR50AaMYJIGLH5Se5J0ID05N7jAAm7X4XfRjlNLcNAq7Hu+sne6Ow2L6D9nQ==",
   "success": true,
   "projectFilePath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain.Tests\\CleanArchMVC.Domain.Tests.csproj",
   "expectedPackageFiles": [

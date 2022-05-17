@@ -9,7 +9,6 @@ D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanAr
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\CleanArchMVC.Domain.Tests.runtimeconfig.json
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\CleanArchMVC.Domain.Tests.runtimeconfig.dev.json
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\CleanArchMVC.Domain.Tests.dll
-D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\ref\CleanArchMVC.Domain.Tests.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\CleanArchMVC.Domain.Tests.pdb
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\FluentAssertions.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -105,3 +104,4 @@ D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanAr
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\obj\Debug\net5.0\ref\CleanArchMVC.Domain.Tests.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\obj\Debug\net5.0\CleanArchMVC.Domain.Tests.pdb
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\obj\Debug\net5.0\CleanArchMVC.Domain.Tests.genruntimeconfig.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Domain.Tests\obj\Debug\net5.0\refint\CleanArchMVC.Domain.Tests.dll

@@ -15,21 +15,11 @@ namespace CleanArchMVC.Domain.Entities
             Id = id;
 
             ValidateDomain(name, description, price, stock, image);
-            Name = name;
-            Description = description;
-            Price = price;
-            Stock = stock;
-            Image = image;
         }
 
         public Product(string name, string description, decimal price, int stock, string image)
         {
             ValidateDomain(name, description, price, stock, image);
-            Name = name;
-            Description = description;
-            Price = price;
-            Stock = stock;
-            Image = image;
         }
 
         //public int Id { get; private set; } // Não vi necessidade de criar uma classe abstrata para isso, fiz apenas por didatica do curso
@@ -68,6 +58,12 @@ namespace CleanArchMVC.Domain.Entities
 
             DomainExceptionValidation.When(price < 0, $"Invalid {nameof(Price)} value.");
             DomainExceptionValidation.When(stock < 0, $"Invalid {nameof(Stock)} value.");
+
+            Name = name;
+            Description = description;
+            Price = price;
+            Stock = stock;
+            Image = image;
         }
     }
 }

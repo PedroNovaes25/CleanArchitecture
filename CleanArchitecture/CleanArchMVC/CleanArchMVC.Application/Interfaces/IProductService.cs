@@ -11,7 +11,7 @@ namespace CleanArchMVC.Application.Interfaces
     {
         Task<IEnumerable<ProductDTO>> GetProducts();
         Task<ProductDTO> GetById(int? idProduct);
-        Task<ProductDTO> GetProductCategory(int? idCategory);
+        //Task<ProductDTO> GetProductCategory(int? idCategory);
         Task Add(ProductDTO productDTO);
         Task Update(ProductDTO productDTO);
         Task Remove(int? idProduct);

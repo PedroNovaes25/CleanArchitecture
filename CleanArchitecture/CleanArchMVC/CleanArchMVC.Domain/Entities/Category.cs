@@ -11,12 +11,9 @@ namespace CleanArchMVC.Domain.Entities
     {
         public Category(int id, string name)
         {
-
             DomainExceptionValidation.When(id < 0, "Invalid Id value.");
             Id = id;
-
             ValidationName(name);
-            this.Name = name;
         }
 
         public Category(string name)
@@ -27,7 +24,7 @@ namespace CleanArchMVC.Domain.Entities
         //public int Id { get; private set; } // Não vi necessidade de criar uma classe abstrata para isso, fiz apenas por didatica do curso
         public string Name { get; private set; }
 
-        public IEnumerable<Product> Products { get; set; }
+        public ICollection<Product> Products { get; set; }
 
         public void Update(string name) 
         {
@@ -39,6 +36,7 @@ namespace CleanArchMVC.Domain.Entities
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid name. Name is Required");
             DomainExceptionValidation.When(name.Trim().Length < 3, "Invalid name, too short, minimum 3 characters");
+            this.Name = name;
         }
     }
 }

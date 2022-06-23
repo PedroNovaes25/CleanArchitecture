@@ -1,0 +1,18 @@
+- asp-controller: Designa o nome controlador usado para gerar a URL.
+- asp-action: Representa o nome do método Action do controlador usado.
+- asp-route-{value}: Permite um prefixo de roteamento de caractere curinga. Qualquer
+valor em {value} é interpretado como um possível parâmetro de roteamento.
+- asp-for: Usada para passar o nome da propriedade do modelo que estamos vinculando
+nas tags
+- asp-validation-for: Exibe uma mensagem da validação para a propriedade especificada
+
+
+- DisplayNameFor: Exibe o nome da propriedade do mode.
+- DisplnayFor: exibe o valor da propriedade do model.
+
+== 
+
+A pasta wwwroot armazena os arquivos estáticos do projeto:
+Arquivo css, html, imagens, javascript, etc -> JQuery e Bootstrap
+OBS: esses arquivos são habilitados na classe "startup" aplicando a 
+configuração: app.UseStaticFiles();

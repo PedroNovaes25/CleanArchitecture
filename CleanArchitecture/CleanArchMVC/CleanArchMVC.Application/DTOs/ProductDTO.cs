@@ -18,7 +18,7 @@ namespace CleanArchMVC.Application.DTOs
         [MinLength(3)]
         [MaxLength(100)]
         [DisplayName("Name")]
-        public string Name { get; private set; }
+        public string Name { get; set; }
 
         [Required(ErrorMessage = "The {0} is required")]
         [MinLength(5)]

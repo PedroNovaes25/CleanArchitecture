@@ -42,7 +42,7 @@ namespace CleanArchMVC.Infra.Data.Repositories
             return category;
         }
 
-        public async Task<Category> RemoveAsync(Category category)
+        public async Task<Category> Remove(Category category)
         {
             contextCategory.Remove(category);
             await contextCategory.SaveChangesAsync();

@@ -14,6 +14,6 @@ namespace CleanArchMVC.Domain.Interfaces
          
         Task<Category> CreateAsync(Category category);
         Task<Category> UpdateAsync(Category category);
-        Task<Category> RemoveAsync(Category category);
+        Task<Category> Remove(Category category);
     }
 }

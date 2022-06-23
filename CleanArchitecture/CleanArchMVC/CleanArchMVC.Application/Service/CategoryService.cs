@@ -42,10 +42,10 @@ namespace CleanArchMVC.Application.Service
             var categoryEntity = _mapper.Map<Category>(categoryDto);
             await _categoryRepository.CreateAsync(categoryEntity);
         }
-        public async Task Remove(CategoryDTO categoryDto)
+        public async Task Remove(int? id )
         {
-            var categoryEntity = _mapper.Map<Category>(categoryDto);
-            await _categoryRepository.RemoveAsync(categoryEntity);
+            var categoryEntity = _categoryRepository.GetByIdAsync(id).Result;
+            await _categoryRepository.Remove(categoryEntity);
         }
         public async Task Update(CategoryDTO categoryDto)
         {

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32407.337
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMVC.Domain", "CleanArchMVC.Domain\CleanArchMVC.Domain.csproj", "{910C41E7-00D6-4F1A-8D7B-3F27D2E43E22}"
 EndProject
@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMVC.Infra.Ioc", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMVC.WebUI", "CleanArchMVC.WebUI\CleanArchMVC.WebUI.csproj", "{716EFEE4-739E-4F26-B138-08DC34D7F6F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMVC.Domain.Tests", "CleanArchMVC.Domain.Tests\CleanArchMVC.Domain.Tests.csproj", "{8590AED1-DDA4-47B1-B270-629C789B1537}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchMVC.Domain.Tests", "CleanArchMVC.Domain.Tests\CleanArchMVC.Domain.Tests.csproj", "{8590AED1-DDA4-47B1-B270-629C789B1537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMVC.API", "CleanArchMVC.API\CleanArchMVC.API.csproj", "{AF3E91F0-6C07-4716-B4F5-FA329B0611AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8590AED1-DDA4-47B1-B270-629C789B1537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8590AED1-DDA4-47B1-B270-629C789B1537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8590AED1-DDA4-47B1-B270-629C789B1537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3E91F0-6C07-4716-B4F5-FA329B0611AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3E91F0-6C07-4716-B4F5-FA329B0611AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3E91F0-6C07-4716-B4F5-FA329B0611AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3E91F0-6C07-4716-B4F5-FA329B0611AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

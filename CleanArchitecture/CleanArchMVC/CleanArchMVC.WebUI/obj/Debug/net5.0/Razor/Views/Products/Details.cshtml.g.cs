@@ -19,8 +19,15 @@ using CleanArchMVC.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.WebUI\Views\_ViewImports.cshtml"
+using CleanArchMVC.WebUI.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"186e5890656d600387fde757aa26f3df7476da54", @"/Views/Products/Details.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f9e7b73cd3656169e55e6e44b18150702e6baa47", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"164f7a1917be0eb3cfca80bc60446139f0b62d7b", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Products_Details : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CleanArchMVC.Application.DTOs.ProductDTO>
     #nullable disable
@@ -108,7 +115,7 @@ using CleanArchMVC.WebUI;
 #line hidden
 #nullable disable
             WriteLiteral("                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "186e5890656d600387fde757aa26f3df7476da547824", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "186e5890656d600387fde757aa26f3df7476da548060", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -146,7 +153,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ImageTagHelper.AppendVersion = true;
 #line hidden
 #nullable disable
             WriteLiteral("                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "186e5890656d600387fde757aa26f3df7476da5410280", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "186e5890656d600387fde757aa26f3df7476da5410516", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -240,7 +247,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ImageTagHelper.AppendVersion = true;
 #line hidden
 #nullable disable
             WriteLiteral("</dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "186e5890656d600387fde757aa26f3df7476da5415370", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "186e5890656d600387fde757aa26f3df7476da5415606", async() => {
                 WriteLiteral("Edit");
             }
             );
@@ -272,7 +279,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ImageTagHelper.AppendVersion = true;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral(" |\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "186e5890656d600387fde757aa26f3df7476da5417638", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "186e5890656d600387fde757aa26f3df7476da5417874", async() => {
                 WriteLiteral("Back to List");
             }
             );

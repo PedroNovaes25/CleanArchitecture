@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vZrd0/VaAjYFyq7yHSqNCuTME5N2RXsDxjnvC6Fr/BJwjD5ceBSpI7Vg5L6qsHB7RNK0GCALhV23DCxzwA+p7g==",
+  "dgSpecHash": "o/+/tTYn6FYymAyukn5US9GNUGZ5roqr+sT6fEb5vMBbiZRJ5lNgfQvdEeLddO5K9LI1QhSmg0NC9KddBAB2Ng==",
   "success": true,
   "projectFilePath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain.Tests\\CleanArchMVC.Domain.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

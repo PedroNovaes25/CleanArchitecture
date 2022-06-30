@@ -53,7 +53,6 @@ D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanAr
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -80,3 +79,4 @@ D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanAr
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\CleanArchMVC.Application.pdb
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\CleanArchMVC.Domain.pdb
 D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\CleanArchMVC.Infra.Data.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

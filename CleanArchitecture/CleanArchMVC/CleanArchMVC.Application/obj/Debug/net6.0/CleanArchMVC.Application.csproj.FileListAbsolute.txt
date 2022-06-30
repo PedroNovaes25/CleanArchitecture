@@ -1,0 +1,15 @@
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.deps.json
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Domain.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Domain.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.AssemblyReference.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.AssemblyInfoInputs.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.AssemblyInfo.cs
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.CoreCompileInputs.cache
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.CopyComplete
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\refint\CleanArchMVC.Application.dll
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.pdb
+D:\PedroLNovaes\Estudos\CleanArchitecture\CleanArchitecture\CleanArchMVC\CleanArchMVC.Application\obj\Debug\net6.0\ref\CleanArchMVC.Application.dll

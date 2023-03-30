@@ -2,10 +2,13 @@
 using CleanArchMVC.Application.Mappings;
 using CleanArchMVC.Application.Service;
 using CleanArchMVC.Domain.Account;
+using CleanArchMVC.Domain.Entities;
 using CleanArchMVC.Domain.Interfaces;
+using CleanArchMVC.Domain.Interfaces.Handler;
 using CleanArchMVC.Infra.Data.Context;
 using CleanArchMVC.Infra.Data.Identity;
 using CleanArchMVC.Infra.Data.Repositories;
+using CleanArchMVC.Infra.Data.Repositories.V2;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -36,12 +39,14 @@ namespace CleanArchMVC.Infra.Ioc
             services.AddScoped<IAuthenticate, AuthenticateService>();
             services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
 
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            //services.AddScoped<ICategoryRepository, CategoryRepository>(); //Comentado para teste
+            services.AddScoped<IRepositoryHandler<Category>, CategoryRepositoryV2>(); //teste
             services.AddScoped<IProductRepository, ProductRepository>();
-            
+
+            //services.AddScoped<ICategoryService, CategoryService>();//Comentado para teste
+            services.AddScoped<ICategoryService, CategoryServiceV2>();  //teste
             services.AddScoped<IProductService, ProductService>();
-            services.AddScoped<ICategoryService, CategoryService>();
-            
+
             services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 
             var myHandlers = AppDomain.CurrentDomain.Load("CleanArchMVC.Application");

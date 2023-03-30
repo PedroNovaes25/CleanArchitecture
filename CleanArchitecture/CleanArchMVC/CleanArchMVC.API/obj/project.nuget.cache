@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f8sWUl+9YU0lDx+5zUBbCW6jYmVDNFzp2pajWdWDIHVyFCN6Z1yStfiOu3yTypDx9QPbaKhqUOc/pr6FvENzWg==",
+  "dgSpecHash": "4GVBkTuDauRQuvx1dHV+IrWwdk2vG5I78NKoUWlYeBPH86smAngOQmsy6Cwr+jzRwdppQoiAHOrcEvY98Ci4aw==",
   "success": true,
-  "projectFilePath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj",
+  "projectFilePath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj": {}
+    "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj": {}
   },
   "projects": {
-    "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj": {
+    "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj",
+        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj",
         "projectName": "CleanArchMVC.API",
-        "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj",
+        "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\CleanArchMVC.API.csproj",
         "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-        "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\obj\\",
+        "outputPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj"
+              "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj": {
+                "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj"
               }
             }
           }
@@ -59,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,18 +72,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
+    "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
+        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
         "projectName": "CleanArchMVC.Application",
-        "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
+        "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
         "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-        "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\obj\\",
+        "outputPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
+              "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+                "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
               }
             }
           }
@@ -134,7 +135,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -143,18 +145,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+    "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
+        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
         "projectName": "CleanArchMVC.Domain",
-        "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
+        "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj",
         "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-        "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\obj\\",
+        "outputPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,7 +194,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -201,18 +204,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj": {
+    "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
+        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
         "projectName": "CleanArchMVC.Infra.Data",
-        "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
+        "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-        "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\obj\\",
+        "outputPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -233,8 +236,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
+              "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+                "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
               }
             }
           }
@@ -280,7 +283,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -289,18 +293,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj": {
+    "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj",
+        "projectUniqueName": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj",
         "projectName": "CleanArchMVC.Infra.Ioc",
-        "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj",
+        "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\CleanArchMVC.Infra.Ioc.csproj",
         "packagesPath": "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\",
-        "outputPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\obj\\",
+        "outputPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -321,14 +325,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj"
+              "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
+                "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj"
               },
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
+              "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+                "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
               },
-              "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj": {
-                "projectPath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj"
+              "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj": {
+                "projectPath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Infra.Data\\CleanArchMVC.Infra.Data.csproj"
               }
             }
           }
@@ -374,7 +378,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -383,7 +388,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fN13AVy4gIyCEMKoFnpO01JEm28cnl9REKsL7szZ95wCVA8F4vDYp5SpRUwZoEC+vxJSCxOuamNFU4C2qcxSvg==",
+  "dgSpecHash": "wkXQAea1XmaZjrLr6CN7BIfowtWTo+RGrbX6hUxamVAq/xBey27koS5m3Edt/3IAIt5giJReo8+ko7Q5m4t0ZA==",
   "success": true,
-  "projectFilePath": "D:\\PedroLNovaes\\Estudos\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
+  "projectFilePath": "D:\\PedroLNovaes\\Estudos\\2022\\CleanArchitecture\\CleanArchitecture\\CleanArchMVC\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Pedro L Novaes\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
